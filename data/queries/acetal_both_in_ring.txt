@@ -1,0 +1,2 @@
+SMARTS
+C[O,S;R1]C[O,S;R1]C

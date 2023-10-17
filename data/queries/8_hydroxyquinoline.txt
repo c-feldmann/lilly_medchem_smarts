@@ -1,0 +1,2 @@
+SMARTS
+"[OD1]c1cccc2cccnc12"

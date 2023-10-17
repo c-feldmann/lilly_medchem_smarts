@@ -1,0 +1,2 @@
+SMARTS
+"[nD2H0]1c2c(-[ND2H])cccc2ccc1"
